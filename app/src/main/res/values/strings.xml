@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LPreviewEx</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="theme_edit_text_hint">write to taste life twice</string>
+    <string name="theme_alert_dialog_title">Alert Dialog</string>
+    <string name="theme_alert_dialog_message">Dialogue is a necessary evil.</string>
+
+</resources>
